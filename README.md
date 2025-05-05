@@ -9,15 +9,6 @@ Port Scanning: Checks for open ports on discovered hosts, including common ports
 
 Custom IP Support: Ability to scan a specific IP address for open ports instead of scanning an entire network range.
 
-Installation
-Clone the repository:
-
-bash
-Copy
-Edit
-git clone https://github.com/yourusername/NetworkScanner.git
-cd NetworkScanner
-Build the project:
 If you haven't already, make sure you have .NET SDK installed and then run:
 
 bash
